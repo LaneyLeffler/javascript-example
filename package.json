@@ -1,5 +1,5 @@
 {
-  "name": "typeorm-javascript-example",
+!*"name": "typeorm-javascript-example",
   "version": "0.0.1",
   "description": "Example how to use TypeORM with JavaScript - ES5, ES6, ES7, ESNext.",
   "license": "MIT",
@@ -26,3 +26,4 @@
     "typeorm": "^0.2.0"
   }
 }
+ 
